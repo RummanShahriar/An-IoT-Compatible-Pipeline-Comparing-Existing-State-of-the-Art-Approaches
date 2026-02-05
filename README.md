@@ -176,6 +176,3 @@ Detailed plots, tables, and comparisons are available in the `Results.ipynb` and
 * Clinical decision support systems.
 * Medical data analytics platforms.
 * Research benchmarking for disease prediction models.
-
-```
-
